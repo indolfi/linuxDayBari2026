@@ -1,0 +1,8 @@
+# Archivi d'esame e report veri: non vanno mai pubblicati.
+# Fanno eccezione solo quelli di esempio, con studenti inventati.
+*.tar
+!esame_demo.tar
+report.txt
+report_compilazione.txt
+report_*.txt
+!report_demo.txt
